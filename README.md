@@ -12,5 +12,6 @@ RULES: there. is. no. rules.
 
 TRAILER: https://youtu.be/8Btlo9f4NyI
 
-took me like 1 day to build it lmao
-special thanks to Skugra, for not letting me go insane at 2am, while building this map
+took me like 1 day to build it lmao.
+
+special thanks to Skugra, for not letting me go insane at 2am, while building this map.
